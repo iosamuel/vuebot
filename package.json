@@ -1,0 +1,24 @@
+{
+  "name": "vuebot",
+  "version": "1.0.0",
+  "description": "VueBot for twitch",
+  "main": "src/main.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iosamuel/vuebot.git"
+  },
+  "author": "IOSamuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iosamuel/vuebot/issues"
+  },
+  "homepage": "https://github.com/iosamuel/vuebot#readme"
+}
